@@ -1,0 +1,1 @@
+This is a simple library management system, created with the aim of introducing self to Test Driven Development.
